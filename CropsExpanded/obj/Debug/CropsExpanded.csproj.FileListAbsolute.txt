@@ -1,0 +1,6 @@
+C:\Users\Ruben\source\repos\CropsExpanded\CropsExpanded\bin\Debug\CropsExpanded.dll
+C:\Users\Ruben\source\repos\CropsExpanded\CropsExpanded\bin\Debug\CropsExpanded.pdb
+C:\Users\Ruben\source\repos\CropsExpanded\CropsExpanded\obj\Debug\CropsExpanded.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\CropsExpanded\CropsExpanded\obj\Debug\CropsExpanded.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\CropsExpanded\CropsExpanded\obj\Debug\CropsExpanded.dll
+C:\Users\Ruben\source\repos\CropsExpanded\CropsExpanded\obj\Debug\CropsExpanded.pdb
