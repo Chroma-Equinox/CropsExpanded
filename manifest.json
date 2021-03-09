@@ -1,11 +1,14 @@
 ﻿{
-  "Name": "Crops Expanded",
+  "Name": "[JA] Crops Expanded",
   "Author": "ChromaEquinox & MonkeyNut",
   "Version": "0.0.1",
+  "MinimumApiVersion": "3.7.0",
   "Description": "Expanded Crops for Stardew Valley!",
   "UniqueID": "ChromaEquinox.CropsExpanded",
   "UpdateKeys": [],
-  "ContentPackFor": {
-    "UniqueID": "Pathoschild.ContentPatcher"
-  }
+  "ContentPackFor": 
+  {
+    "UniqueID": "spacechase0.JsonAssets"
+  },
+  "UpdateKeys": [],
 }
