@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Crops Expanded",
+  "Author": "ChromaEquinox & MonkeyNut",
+  "Version": "0.0.1",
+  "Description": "Expanded Crops for Stardew Valley!",
+  "UniqueID": "ChromaEquinox.CropsExpanded",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
